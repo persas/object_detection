@@ -2,8 +2,7 @@
 object_detection
 ================
 
-
-Add a short description here!
+This is the Master thesis project.
 
 
 Description
